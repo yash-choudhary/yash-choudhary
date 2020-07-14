@@ -1,14 +1,14 @@
 # Yash Choudhary&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-choudhary.yash-choudhary)
+### <img src="Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="30px"> and an avid <b>Kaggler,</b>&nbsp;<img src="Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
@@ -21,17 +21,19 @@
 <br>
 
   <a href="https://in.linkedin.com/in/yash-here">
-    <img align="left" alt="Yash Choudhary | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Yash Choudhary | Linkedin" width="24px" src="Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <a href="https://twitter.com/yash_choudhary_">
+    <img align="left" alt="Yash Choudhary | Twitter" width="26px" src="Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/yc.here/">
+    <img align="left" alt="Yash Choudhary | Instagram" width="24px" src="Assets/Instagram.svg" />
   </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a href="https://www.kaggle.com/yashchoudhary">
+    <img align="left" alt="Yash Choudhary | Kaggle" width="26px" src="Assets/Kaggle.svg" />
+  </a>
+  <a href="mailto:yc1998a@gmail.com">
+    <img align="left" alt="Yash Choudhary | Gmail" width="26px" src="Assets/Gmail.svg" />
   </a>
 <br><br><br><br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-choudhary.yash-choudhary)
 <br>

@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Choudhary</h1>
-<h4 align="center">I am a final year Bachelor of Technology(Computer Science) student at <a href="https://www.srmist.edu.in/">SRM Institute of Science and technology, Kattankulatur.</a> I like building projects relating to Machine Learning and Deep Learning. I also like to do App Development in my spare time and Flutter is my go-to framework for that. 
-
-<br> 
-Go have a look at all my awesome projects and feel free to reach out to me for any concerns, queries or suggestions.</h4>
+<h4 align="center">I am a final year Bachelor of Technology(Computer Science) student at <a href="https://www.srmist.edu.in/">SRM Institute of Science and technology, Kattankulatur.</a> I like building projects related to Machine Learning and Deep Learning. I also do App Development in my spare time and Flutter is my go-to framework for that. Go have a look at all my awesome projects and feel free to reach out to me for any concerns, queries or suggestions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-choudhary" alt="yash-choudhary" /> </p>
 

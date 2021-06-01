@@ -1,0 +1,24 @@
+{
+  "name": "yash-choudhary",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Yash Choudhary</h1>\r <h4 align=\"center\">I am a final year Bachelor of Technology(Computer Science) student at <a href=\"https://www.srmist.edu.in/\">SRM Institute of Science and technology, Kattankulatur.</a> I like building projects related to Machine Learning and Deep Learning. I also do App Development in my spare time and Flutter is my go-to framework for that. Go have a look at all my awesome projects and feel free to reach out to me for any concerns, queries or suggestions.</h4>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-choudhary/yash-choudhary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash-choudhary/yash-choudhary/issues"
+  },
+  "homepage": "https://github.com/yash-choudhary/yash-choudhary#readme",
+  "keywords": [],
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}

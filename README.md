@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Choudhary</h1>
 <h4 align="center">I am a final year Bachelor of Technology(Computer Science) student at <a href="https://www.srmist.edu.in/">SRM Institute of Science and technology, Kattankulatur.</a> I like building projects related to Machine Learning and Deep Learning. I also do App Development in my spare time and Flutter is my go-to framework for that. Go have a look at all my awesome projects and feel free to reach out to me for any concerns, queries or suggestions.</h4>
 
-<b aligh="left">Tuesday, 26 October</b>
+<b aligh="left">Wednesday, 27 October</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-choudhary" alt="yash-choudhary" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 Feel free to reach out at [yc1998a@gmail.com](mailto:yc1998a@gmail.com)
 
-- ⚡ Fun fact: **"227 is the highest score ever in the Eurovision Song Contest, achieved by Katrina and the Waves of the UK in 1997, before the Semi-final system was introduced in 2004."**
+- ⚡ Fun fact: **"124 is the atomic number of the yet-to-be-discovered element unbiquadium."**
 
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30"/> <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30"/> <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="JS" width="30" height="30"/> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" alt="JS" width="30" height="30"/> <img src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg" alt="JS" width="30" height="30"/> <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="JS" width="30" height="30"/> <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="JS" width="30" height="30"/></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yash-choudhary&show_icons=true" alt="yash-choudhary" /> </p>

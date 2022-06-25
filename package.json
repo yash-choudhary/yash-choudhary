@@ -19,6 +19,6 @@
   "keywords": [],
   "dependencies": {
     "mustache": "^4.2.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }

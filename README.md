@@ -13,7 +13,7 @@
 <!---
 - 🤔 I’m looking for help with **anything deep learning.**
 --->
-- 👨‍💻 Find more about me at [[Portfolio](https://yash-choudhary.github.io/)
+- 👨‍💻 Find more about me at [Portfolio](https://yash-choudhary.github.io/)
 
 - 💬 I can help you with **Deep Learning, Machine Learning, Flutter, C++, Python and JavaScript.**
 

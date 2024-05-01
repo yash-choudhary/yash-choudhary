@@ -28,5 +28,4 @@
 <a href="https://twitter.com/yash_choudhary_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yash_choudhary_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/yash-here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-here" height="30" width="30" /></a>
 <a href="https://kaggle.com/yashchoudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="yashchoudhary" height="30" width="30" /></a>
-<a href="https://instagram.com/yc.here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yc.here" height="30" width="30" /></a>
 </p>
